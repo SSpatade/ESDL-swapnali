@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 cout<<"Hello";
-cout<<"******";
+int a=6;
+cout<<"Entered number is:";
 return 0;
 }
